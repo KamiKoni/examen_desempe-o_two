@@ -1,0 +1,79 @@
+/* ===== AUTH PAGES ===== */
+
+.auth-body {
+  min-height: 100vh;
+  background: #2A7B9B;
+  background: linear-gradient(90deg,rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-container {
+  text-align: center;
+}
+
+.auth-card {
+  background: transparent;
+  padding: 40px;
+  border-radius: 15px;
+  width: 320px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+  outline: 0.01px solid gainsboro;
+}
+
+.auth-card h1 {
+  margin-bottom: 20px;
+  color: white;
+  font-family: "ubuntu", sans-serif;
+}
+
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.auth-form label {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  text-align: left;
+  color: white
+}
+
+.auth-form input {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.auth-form input:focus {
+  outline: none;
+  border-color: #388E3B;
+}
+
+.auth-form button {
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 20px;
+  border: none;
+  background: white;
+}
+
+.auth-link {
+  margin-top: 20px;
+  font-size: 14px;
+  color: white;
+  font-family: "ubuntu", sans-serif;
+}
+
+.auth-link a {
+  color: #388E3B;;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+
+
+
