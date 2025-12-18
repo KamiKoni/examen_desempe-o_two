@@ -24,12 +24,12 @@
 <!-- ---------------------------------------------------------------------- -->
 
 ##  Project Structure
-
+```
 ├── . index.html
 |   ├── sign-up.html
 |   └── login.html
-|   |   |── ./styles.css
-|   |   └── ./styles2.css
+|       |── ./styles.css
+|       └── ./styles2.css
 |
 ├── ./src/styles/
 │   └── style.css
@@ -74,7 +74,7 @@
 │   └── Thumbnail.png
 |
 └── README.md
-
+```
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- PROJECT DESCRIPTION: -->
@@ -90,11 +90,11 @@ Nexcent is a website I developed from a Figma template to test my HTML and CSS s
 
 ## Features
 
--responsive layout (mobile, table, desktop)
--modern UI using css variables
--accessible and semantic html structure
--flexbox and grid used correctly
--clean and organized CSS architecture
+- responsive layout (mobile, table, desktop)
+- modern UI using css variables
+- accessible and semantic html structure
+- flexbox and grid used correctly
+- clean and organized CSS architecture
 
 ---
 <!-- ---------------------------------------------------------------------- -->
@@ -170,10 +170,6 @@ TECHNOLOGIES USED
       > remove: Total 10 (delta 1), reused 10 (delta 1)
       > Unpacking objects: 100% (10/10), done.
 
-## How to visualize the project
--
-
----
 
 <!-- ---------------------------------------------------------------------- -->
 
@@ -181,7 +177,7 @@ TECHNOLOGIES USED
 ##  Credits to
 
 <a href="https://www.figma.com/design/hw5hfbrYc2SDWhcBjZeVqV/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design--Community-?node-id=5-573&t=eLjrISxT78q9KL8b-0">
-Argenis David Flores</a>
+Figma Template</a>
 
 
 <!-- ---------------------------------------------------------------------- -->
@@ -189,5 +185,5 @@ Argenis David Flores</a>
 <!-- Author -->
 ##  Author
 
-
+Official URL to the site [URL] (https://riwinextcent.netlify.app/)
 Made by Argenis David Flores Web Developer Student from Colombia [Contact us! GITHUB](https://github.com/KamiKoni)
