@@ -159,11 +159,11 @@ TECHNOLOGIES USED
 
     - Type git clone, and then paste the URL you copied earlier.
 
-    - git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    - git clone https://github.com/KamiKoni/examen_desempe-o_two.git
 
     - Press Enter to create your local clone.
 
-    - $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    - $ git clone https://github.com/KamiKoni/examen_desempe-o_two.git
       > Cloning into `Spoon-Knife`...
       > remote: Counting objects: 10, done.
       > remote: Compressing objects: 100% (8/8), done.
