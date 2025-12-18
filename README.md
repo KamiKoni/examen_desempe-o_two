@@ -186,4 +186,8 @@ Figma Template</a>
 ##  Author
 
 Official URL to the site [URL] (https://riwinextcent.netlify.app/)
-Made by Argenis David Flores Web Developer Student from Colombia [Contact us! GITHUB](https://github.com/KamiKoni)
+Made by Argenis David Flores Web Developer Student from Colombia [Contact us!]
+[GITHUB](https://github.com/KamiKoni)
+[EMAIL] (Argenisdavid212@gmail.com)
+[CLAN] (Thompson)
+[Identity Document (PPT)] (5873302)
